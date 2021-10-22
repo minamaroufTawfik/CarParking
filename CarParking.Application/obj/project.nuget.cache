@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kXBK2RY4xTsqajCQnaEzJ42romTWZpoDnVrF/jfve99W3POpnmQqIne5EmklTgHLUlptCm91SMxZHO44Wd2LLg==",
+  "success": true,
+  "projectFilePath": "G:\\TestProjects\\BackStone_Task\\CarParking.Application\\CarParking.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Administrator\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\Administrator\\.nuget\\packages\\system.reflection.emit\\4.7.0\\system.reflection.emit.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}

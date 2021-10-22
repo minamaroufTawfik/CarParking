@@ -1,0 +1,15 @@
+G:\TestProjects\BackStone_Task\CarParking.Application\bin\Debug\net5.0\CarParking.Application.deps.json
+G:\TestProjects\BackStone_Task\CarParking.Application\bin\Debug\net5.0\CarParking.Application.dll
+G:\TestProjects\BackStone_Task\CarParking.Application\bin\Debug\net5.0\ref\CarParking.Application.dll
+G:\TestProjects\BackStone_Task\CarParking.Application\bin\Debug\net5.0\CarParking.Application.pdb
+G:\TestProjects\BackStone_Task\CarParking.Application\obj\Debug\net5.0\CarParking.Application.GeneratedMSBuildEditorConfig.editorconfig
+G:\TestProjects\BackStone_Task\CarParking.Application\obj\Debug\net5.0\CarParking.Application.AssemblyInfoInputs.cache
+G:\TestProjects\BackStone_Task\CarParking.Application\obj\Debug\net5.0\CarParking.Application.AssemblyInfo.cs
+G:\TestProjects\BackStone_Task\CarParking.Application\obj\Debug\net5.0\CarParking.Application.csproj.CoreCompileInputs.cache
+G:\TestProjects\BackStone_Task\CarParking.Application\obj\Debug\net5.0\CarParking.Application.dll
+G:\TestProjects\BackStone_Task\CarParking.Application\obj\Debug\net5.0\ref\CarParking.Application.dll
+G:\TestProjects\BackStone_Task\CarParking.Application\obj\Debug\net5.0\CarParking.Application.pdb
+G:\TestProjects\BackStone_Task\CarParking.Application\bin\Debug\net5.0\CarParking.Core.dll
+G:\TestProjects\BackStone_Task\CarParking.Application\bin\Debug\net5.0\CarParking.Core.pdb
+G:\TestProjects\BackStone_Task\CarParking.Application\obj\Debug\net5.0\CarParking.Application.csproj.AssemblyReference.cache
+G:\TestProjects\BackStone_Task\CarParking.Application\obj\Debug\net5.0\CarParking.Application.csproj.CopyComplete
